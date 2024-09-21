@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Kurt Luza currently taking BS Information Technology.
+
+
+Skills:  
+Web Development| UI UX Design | Python Django
+
+🔭 I’m currently working on something cool  
+🌱 I’m currently learning Python, Javascript  
+⚡ Fun fact: I love playing GT7
