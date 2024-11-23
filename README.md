@@ -18,7 +18,7 @@ I am Kurt Luza currently taking BS Information Technology.
 
 
 Skills:  
-Web Development| UI UX Design | Python Django
+Web Developer| Web Design | Python Django
 
 🔭 I’m currently working on something cool  
 🌱 I’m currently learning Python, Javascript  
